@@ -1,0 +1,14 @@
+D:\Sudoku data structure\Sudoku data structure\bin\Debug\Sudoku data structure.exe.config
+D:\Sudoku data structure\Sudoku data structure\bin\Debug\Sudoku data structure.exe
+D:\Sudoku data structure\Sudoku data structure\bin\Debug\Sudoku data structure.pdb
+D:\Sudoku data structure\Sudoku data structure\obj\Debug\Sudoku data structure.csprojAssemblyReference.cache
+D:\Sudoku data structure\Sudoku data structure\obj\Debug\Sudoku data structure.csproj.CoreCompileInputs.cache
+D:\Sudoku data structure\Sudoku data structure\obj\Debug\Sudoku data structure.exe
+D:\Sudoku data structure\Sudoku data structure\obj\Debug\Sudoku data structure.pdb
+F:\C#SUDOKO VALIDATION\Sudoku data structure\Sudoku data structure\bin\Debug\Sudoku data structure.exe.config
+F:\C#SUDOKO VALIDATION\Sudoku data structure\Sudoku data structure\bin\Debug\Sudoku data structure.exe
+F:\C#SUDOKO VALIDATION\Sudoku data structure\Sudoku data structure\bin\Debug\Sudoku data structure.pdb
+F:\C#SUDOKO VALIDATION\Sudoku data structure\Sudoku data structure\obj\Debug\Sudoku data structure.csprojAssemblyReference.cache
+F:\C#SUDOKO VALIDATION\Sudoku data structure\Sudoku data structure\obj\Debug\Sudoku data structure.csproj.CoreCompileInputs.cache
+F:\C#SUDOKO VALIDATION\Sudoku data structure\Sudoku data structure\obj\Debug\Sudoku data structure.exe
+F:\C#SUDOKO VALIDATION\Sudoku data structure\Sudoku data structure\obj\Debug\Sudoku data structure.pdb
